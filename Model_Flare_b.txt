@@ -1,6 +1,7 @@
 This file contains the electron density obtained by simulating the Venus ionosphere using the 1D Venus Ionosphere Model (VIM)
 for the Pre-flare and flare scenario as on the date 22 December, 2013. The model result has been compared with the VeRa electron
-density retrieved for the same day.
+density retrieved for the same day. The full VeRa data can be accessed via the https://fip-koeln.de/marsvera-data-archive/?lang=en 
+after asking for access to the server.
  
 -----------------------------------------------------------------------------
  values at 130 km altitude above aeroid (130 km) for VeRa profile
