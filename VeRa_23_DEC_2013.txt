@@ -1,4 +1,5 @@
- -----------------------------------------------------------------------------
+The full VeRa data can be accessed via the https://fip-koeln.de/marsvera-data-archive/?lang=en after asking for access to the server.
+-----------------------------------------------------------------------------
   values at 130 km altitude above aeroid (130 km)
  -----------------------------------------------------------------------------
  Measurement time (130 km)                    [ERT] :  2013-12-23T08:43:06.413
